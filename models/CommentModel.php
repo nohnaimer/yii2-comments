@@ -9,7 +9,7 @@ use yii\behaviors\TimestampBehavior;
 use yii\db\ActiveQuery;
 use yii\db\ActiveRecord;
 use yii\helpers\ArrayHelper;
-use yii2mod\behaviors\PurifyBehavior;
+use yii2mod\comments\behaviors\PurifyBehavior;
 use yii2mod\comments\traits\ModuleTrait;
 use yii2mod\moderation\enums\Status;
 use yii2mod\moderation\ModerationBehavior;
